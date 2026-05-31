@@ -2,6 +2,8 @@
 name = "lau-adinkra"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-adinkra"
 description = "Adinkra symbols as compressed behavioral signatures for PLATO agents"
 
 [dependencies]
